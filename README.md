@@ -1,5 +1,5 @@
 # learn-with-other-kaggle-users
-Python code for a Kaggle beginner-friendly competition (top 7% finish)
+Python code for a Kaggle beginner-friendly competition (top 4% finish)
 
 In the competition I predicted what types of trees there are in an area based on various geographic features.
 The competition datasets comes from a study conducted in four wilderness areas within the beautiful Roosevelt National Forest 
