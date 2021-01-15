@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Sep  3 20:28:17 2019
-
-@author: leo
-"""
 
 # Import Libraries
 import statistics
